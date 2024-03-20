@@ -1,0 +1,872 @@
+year_film,category,name,film,winner
+1997,ACTOR IN A LEADING ROLE,Matt Damon,Good Will Hunting,FALSE
+1997,ACTOR IN A LEADING ROLE,Robert Duvall,The Apostle,FALSE
+1997,ACTOR IN A LEADING ROLE,Peter Fonda,Ulee's Gold,FALSE
+1997,ACTOR IN A LEADING ROLE,Dustin Hoffman,Wag the Dog,FALSE
+1997,ACTOR IN A LEADING ROLE,Jack Nicholson,As Good as It Gets,TRUE
+1997,ACTOR IN A SUPPORTING ROLE,Robert Forster,Jackie Brown,FALSE
+1997,ACTOR IN A SUPPORTING ROLE,Anthony Hopkins,Amistad,FALSE
+1997,ACTOR IN A SUPPORTING ROLE,Greg Kinnear,As Good as It Gets,FALSE
+1997,ACTOR IN A SUPPORTING ROLE,Burt Reynolds,Boogie Nights,FALSE
+1997,ACTOR IN A SUPPORTING ROLE,Robin Williams,Good Will Hunting,TRUE
+1997,ACTRESS IN A LEADING ROLE,Helena Bonham Carter,The Wings of the Dove,FALSE
+1997,ACTRESS IN A LEADING ROLE,Julie Christie,Afterglow,FALSE
+1997,ACTRESS IN A LEADING ROLE,Judi Dench,Mrs. Brown,FALSE
+1997,ACTRESS IN A LEADING ROLE,Helen Hunt,As Good as It Gets,TRUE
+1997,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic,FALSE
+1997,ACTRESS IN A SUPPORTING ROLE,Kim Basinger,L.A. Confidential,TRUE
+1997,ACTRESS IN A SUPPORTING ROLE,Joan Cusack,In & Out,FALSE
+1997,ACTRESS IN A SUPPORTING ROLE,Minnie Driver,Good Will Hunting,FALSE
+1997,ACTRESS IN A SUPPORTING ROLE,Julianne Moore,Boogie Nights,FALSE
+1997,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,Titanic,FALSE
+1997,BEST PICTURE,James L. Brooks,As Good as It Gets,FALSE
+1997,BEST PICTURE,Peter Cattaneo,The Full Monty,FALSE
+1997,BEST PICTURE,Gus Van Sant,Good Will Hunting,FALSE
+1997,BEST PICTURE,Curtis Hanson,L.A. Confidential,FALSE
+1997,BEST PICTURE,James Cameron,Titanic,TRUE
+1997,DIRECTING,Peter Cattaneo,The Full Monty,FALSE
+1997,DIRECTING,Gus Van Sant,Good Will Hunting,FALSE
+1997,DIRECTING,Curtis Hanson,L.A. Confidential,FALSE
+1997,DIRECTING,Atom Egoyan,The Sweet Hereafter,FALSE
+1997,DIRECTING,James Cameron,Titanic,TRUE
+1998,ACTOR IN A LEADING ROLE,Roberto Benigni,Life Is Beautiful,TRUE
+1998,ACTOR IN A LEADING ROLE,Tom Hanks,Saving Private Ryan,FALSE
+1998,ACTOR IN A LEADING ROLE,Ian McKellen,Gods and Monsters,FALSE
+1998,ACTOR IN A LEADING ROLE,Nick Nolte,Affliction,FALSE
+1998,ACTOR IN A LEADING ROLE,Edward Norton,American History X,FALSE
+1998,ACTOR IN A SUPPORTING ROLE,James Coburn,Affliction,TRUE
+1998,ACTOR IN A SUPPORTING ROLE,Robert Duvall,A Civil Action,FALSE
+1998,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Truman Show,FALSE
+1998,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,Shakespeare in Love,FALSE
+1998,ACTOR IN A SUPPORTING ROLE,Billy Bob Thornton,A Simple Plan,FALSE
+1998,ACTRESS IN A LEADING ROLE,Cate Blanchett,Elizabeth,FALSE
+1998,ACTRESS IN A LEADING ROLE,Fernanda Montenegro,Central Station,FALSE
+1998,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,Shakespeare in Love,TRUE
+1998,ACTRESS IN A LEADING ROLE,Meryl Streep,One True Thing,FALSE
+1998,ACTRESS IN A LEADING ROLE,Emily Watson,Hilary and Jackie,FALSE
+1998,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,Primary Colors,FALSE
+1998,ACTRESS IN A SUPPORTING ROLE,Brenda Blethyn,Little Voice,FALSE
+1998,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Shakespeare in Love,TRUE
+1998,ACTRESS IN A SUPPORTING ROLE,Rachel Griffiths,Hilary and Jackie,FALSE
+1998,ACTRESS IN A SUPPORTING ROLE,Lynn Redgrave,Gods and Monsters,FALSE
+1998,BEST PICTURE,Shekhar Kapur,Elizabeth,FALSE
+1998,BEST PICTURE,Roberto Benigni,Life Is Beautiful,FALSE
+1998,BEST PICTURE,Steven Spielberg,Saving Private Ryan,FALSE
+1998,BEST PICTURE,John Madden,Shakespeare in Love,TRUE
+1998,BEST PICTURE,Terrence Malick,The Thin Red Line,FALSE
+1998,DIRECTING,Roberto Benigni,Life Is Beautiful,FALSE
+1998,DIRECTING,Steven Spielberg,Saving Private Ryan,TRUE
+1998,DIRECTING,John Madden,Shakespeare in Love,FALSE
+1998,DIRECTING,Terrence Malick,The Thin Red Line,FALSE
+1998,DIRECTING,Peter Weir,The Truman Show,FALSE
+1999,ACTOR IN A LEADING ROLE,Russell Crowe,The Insider,FALSE
+1999,ACTOR IN A LEADING ROLE,Richard Farnsworth,The Straight Story,FALSE
+1999,ACTOR IN A LEADING ROLE,Sean Penn,Sweet and Lowdown,FALSE
+1999,ACTOR IN A LEADING ROLE,Kevin Spacey,American Beauty,TRUE
+1999,ACTOR IN A LEADING ROLE,Denzel Washington,The Hurricane,FALSE
+1999,ACTOR IN A SUPPORTING ROLE,Michael Caine,The Cider House Rules,TRUE
+1999,ACTOR IN A SUPPORTING ROLE,Tom Cruise,Magnolia,FALSE
+1999,ACTOR IN A SUPPORTING ROLE,Michael Clarke Duncan,The Green Mile,FALSE
+1999,ACTOR IN A SUPPORTING ROLE,Jude Law,The Talented Mr. Ripley,FALSE
+1999,ACTOR IN A SUPPORTING ROLE,Haley Joel Osment,The Sixth Sense,FALSE
+1999,ACTRESS IN A LEADING ROLE,Annette Bening,American Beauty,FALSE
+1999,ACTRESS IN A LEADING ROLE,Janet McTeer,Tumbleweeds,FALSE
+1999,ACTRESS IN A LEADING ROLE,Julianne Moore,The End of the Affair,FALSE
+1999,ACTRESS IN A LEADING ROLE,Meryl Streep,Music of the Heart,FALSE
+1999,ACTRESS IN A LEADING ROLE,Hilary Swank,Boys Don't Cry,TRUE
+1999,ACTRESS IN A SUPPORTING ROLE,Toni Collette,The Sixth Sense,FALSE
+1999,ACTRESS IN A SUPPORTING ROLE,Angelina Jolie,"Girl, Interrupted",TRUE
+1999,ACTRESS IN A SUPPORTING ROLE,Catherine Keener,Being John Malkovich,FALSE
+1999,ACTRESS IN A SUPPORTING ROLE,Samantha Morton,Sweet and Lowdown,FALSE
+1999,ACTRESS IN A SUPPORTING ROLE,Chloë Sevigny,Boys Don't Cry,FALSE
+1999,BEST PICTURE,Sam Mendes,American Beauty,TRUE
+1999,BEST PICTURE,Lasse Hallström,The Cider House Rules,FALSE
+1999,BEST PICTURE,Frank Darabont,The Green Mile,FALSE
+1999,BEST PICTURE,Michael Mann,The Insider,FALSE
+1999,BEST PICTURE,M. Night Shyamalan,The Sixth Sense,FALSE
+1999,DIRECTING,Sam Mendes,American Beauty,TRUE
+1999,DIRECTING,Spike Jonze,Being John Malkovich,FALSE
+1999,DIRECTING,Lasse Hallström,The Cider House Rules,FALSE
+1999,DIRECTING,Michael Mann,The Insider,FALSE
+1999,DIRECTING,M. Night Shyamalan,The Sixth Sense,FALSE
+2000,ACTOR IN A LEADING ROLE,Javier Bardem,Before Night Falls,FALSE
+2000,ACTOR IN A LEADING ROLE,Russell Crowe,Gladiator,TRUE
+2000,ACTOR IN A LEADING ROLE,Tom Hanks,Cast Away,FALSE
+2000,ACTOR IN A LEADING ROLE,Ed Harris,Pollock,FALSE
+2000,ACTOR IN A LEADING ROLE,Geoffrey Rush,Quills,FALSE
+2000,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,The Contender,FALSE
+2000,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,Shadow of the Vampire,FALSE
+2000,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,Traffic,TRUE
+2000,ACTOR IN A SUPPORTING ROLE,Albert Finney,Erin Brockovich,FALSE
+2000,ACTOR IN A SUPPORTING ROLE,Joaquin Phoenix,Gladiator,FALSE
+2000,ACTRESS IN A LEADING ROLE,Joan Allen,The Contender,FALSE
+2000,ACTRESS IN A LEADING ROLE,Juliette Binoche,Chocolat,FALSE
+2000,ACTRESS IN A LEADING ROLE,Ellen Burstyn,Requiem for a Dream,FALSE
+2000,ACTRESS IN A LEADING ROLE,Laura Linney,You Can Count on Me,FALSE
+2000,ACTRESS IN A LEADING ROLE,Julia Roberts,Erin Brockovich,TRUE
+2000,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Chocolat,FALSE
+2000,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Pollock,TRUE
+2000,ACTRESS IN A SUPPORTING ROLE,Kate Hudson,Almost Famous,FALSE
+2000,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,Almost Famous,FALSE
+2000,ACTRESS IN A SUPPORTING ROLE,Julie Walters,Billy Elliot,FALSE
+2000,BEST PICTURE,Lasse Hallström,Chocolat,FALSE
+2000,BEST PICTURE,Ang Lee,"Crouching Tiger, Hidden Dragon",FALSE
+2000,BEST PICTURE,Steven Soderbergh,Erin Brockovich,FALSE
+2000,BEST PICTURE,Ridley Scott,Gladiator,TRUE
+2000,BEST PICTURE,Steven Soderbergh,Traffic,FALSE
+2000,DIRECTING,Stephen Daldry,Billy Elliot,FALSE
+2000,DIRECTING,Ang Lee,"Crouching Tiger, Hidden Dragon",FALSE
+2000,DIRECTING,Steven Soderbergh,Erin Brockovich,FALSE
+2000,DIRECTING,Ridley Scott,Gladiator,FALSE
+2000,DIRECTING,Steven Soderbergh,Traffic,TRUE
+2001,ACTOR IN A LEADING ROLE,Russell Crowe,A Beautiful Mind,FALSE
+2001,ACTOR IN A LEADING ROLE,Sean Penn,I Am Sam,FALSE
+2001,ACTOR IN A LEADING ROLE,Will Smith,Ali,FALSE
+2001,ACTOR IN A LEADING ROLE,Denzel Washington,Training Day,TRUE
+2001,ACTOR IN A LEADING ROLE,Tom Wilkinson,In the Bedroom,FALSE
+2001,ACTOR IN A SUPPORTING ROLE,Jim Broadbent,Iris,TRUE
+2001,ACTOR IN A SUPPORTING ROLE,Ethan Hawke,Training Day,FALSE
+2001,ACTOR IN A SUPPORTING ROLE,Ben Kingsley,Sexy Beast,FALSE
+2001,ACTOR IN A SUPPORTING ROLE,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,FALSE
+2001,ACTOR IN A SUPPORTING ROLE,Jon Voight,Ali,FALSE
+2001,ACTRESS IN A LEADING ROLE,Halle Berry,Monster's Ball,TRUE
+2001,ACTRESS IN A LEADING ROLE,Judi Dench,Iris,FALSE
+2001,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge,FALSE
+2001,ACTRESS IN A LEADING ROLE,Sissy Spacek,In the Bedroom,FALSE
+2001,ACTRESS IN A LEADING ROLE,Renée Zellweger,Bridget Jones's Diary,FALSE
+2001,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,A Beautiful Mind,TRUE
+2001,ACTRESS IN A SUPPORTING ROLE,Helen Mirren,Gosford Park,FALSE
+2001,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,Gosford Park,FALSE
+2001,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,In the Bedroom,FALSE
+2001,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Iris,FALSE
+2001,BEST PICTURE,Ron Howard,A Beautiful Mind,TRUE
+2001,BEST PICTURE,Ridley Scott,Gosford Park,FALSE
+2001,BEST PICTURE,Todd Field,In the Bedroom,FALSE
+2001,BEST PICTURE,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,FALSE
+2001,BEST PICTURE,Baz Luhrmann,Moulin Rouge,FALSE
+2001,DIRECTING,Ron Howard,A Beautiful Mind,TRUE
+2001,DIRECTING,Ridley Scott,Black Hawk Down,FALSE
+2001,DIRECTING,Robert Altman,Gosford Park,FALSE
+2001,DIRECTING,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,FALSE
+2001,DIRECTING,David Lynch,Mulholland Drive,FALSE
+2002,ACTOR IN A LEADING ROLE,Adrien Brody,The Pianist,TRUE
+2002,ACTOR IN A LEADING ROLE,Nicolas Cage,Adaptation,FALSE
+2002,ACTOR IN A LEADING ROLE,Michael Caine,The Quiet American,FALSE
+2002,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Gangs of New York,FALSE
+2002,ACTOR IN A LEADING ROLE,Jack Nicholson,About Schmidt,FALSE
+2002,ACTOR IN A SUPPORTING ROLE,Chris Cooper,Adaptation,TRUE
+2002,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Hours,FALSE
+2002,ACTOR IN A SUPPORTING ROLE,Paul Newman,Road to Perdition,FALSE
+2002,ACTOR IN A SUPPORTING ROLE,John C. Reilly,Chicago,FALSE
+2002,ACTOR IN A SUPPORTING ROLE,Christopher Walken,Catch Me If You Can,FALSE
+2002,ACTRESS IN A LEADING ROLE,Salma Hayek,Frida,FALSE
+2002,ACTRESS IN A LEADING ROLE,Nicole Kidman,The Hours,TRUE
+2002,ACTRESS IN A LEADING ROLE,Diane Lane,Unfaithful,FALSE
+2002,ACTRESS IN A LEADING ROLE,Julianne Moore,Far from Heaven,FALSE
+2002,ACTRESS IN A LEADING ROLE,Renée Zellweger,Chicago,FALSE
+2002,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,About Schmidt,FALSE
+2002,ACTRESS IN A SUPPORTING ROLE,Julianne Moore,The Hours,FALSE
+2002,ACTRESS IN A SUPPORTING ROLE,Queen Latifah,Chicago,FALSE
+2002,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Adaptation,FALSE
+2002,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,Chicago,TRUE
+2002,BEST PICTURE,Rob Marshall,Chicago,TRUE
+2002,BEST PICTURE,Martin Scorsese,Gangs of New York,FALSE
+2002,BEST PICTURE,Stephen Daldry,The Hours,FALSE
+2002,BEST PICTURE,Peter Jackson,The Lord of the Rings: The Two Towers,FALSE
+2002,BEST PICTURE,Roman Polanski,The Pianist,FALSE
+2002,DIRECTING,Rob Marshall,Chicago,FALSE
+2002,DIRECTING,Martin Scorsese,Gangs of New York,FALSE
+2002,DIRECTING,Stephen Daldry,The Hours,FALSE
+2002,DIRECTING,Roman Polanski,The Pianist,TRUE
+2002,DIRECTING,Pedro Almodóvar,Talk to Her,FALSE
+2003,ACTOR IN A LEADING ROLE,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,FALSE
+2003,ACTOR IN A LEADING ROLE,Ben Kingsley,House of Sand and Fog,FALSE
+2003,ACTOR IN A LEADING ROLE,Jude Law,Cold Mountain,FALSE
+2003,ACTOR IN A LEADING ROLE,Bill Murray,Lost in Translation,FALSE
+2003,ACTOR IN A LEADING ROLE,Sean Penn,Mystic River,TRUE
+2003,ACTOR IN A SUPPORTING ROLE,Alec Baldwin,The Cooler,FALSE
+2003,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,21 Grams,FALSE
+2003,ACTOR IN A SUPPORTING ROLE,Djimon Hounsou,In America,FALSE
+2003,ACTOR IN A SUPPORTING ROLE,Tim Robbins,Mystic River,TRUE
+2003,ACTOR IN A SUPPORTING ROLE,Ken Watanabe,The Last Samurai,FALSE
+2003,ACTRESS IN A LEADING ROLE,Keisha Castle-Hughes,Whale Rider,FALSE
+2003,ACTRESS IN A LEADING ROLE,Diane Keaton,Something's Gotta Give,FALSE
+2003,ACTRESS IN A LEADING ROLE,Samantha Morton,In America,FALSE
+2003,ACTRESS IN A LEADING ROLE,Charlize Theron,Monster,TRUE
+2003,ACTRESS IN A LEADING ROLE,Naomi Watts,21 Grams,FALSE
+2003,ACTRESS IN A SUPPORTING ROLE,Shohreh Aghdashloo,House of Sand and Fog,FALSE
+2003,ACTRESS IN A SUPPORTING ROLE,Patricia Clarkson,Pieces of April,FALSE
+2003,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Mystic River,FALSE
+2003,ACTRESS IN A SUPPORTING ROLE,Holly Hunter,Thirteen,FALSE
+2003,ACTRESS IN A SUPPORTING ROLE,Renée Zellweger,Cold Mountain,TRUE
+2003,BEST PICTURE,Peter Jackson,The Lord of the Rings: The Return of the King,TRUE
+2003,BEST PICTURE,Sofia Coppola,Lost in Translation,FALSE
+2003,BEST PICTURE,Peter Weir,Master and Commander: The Far Side of the World,FALSE
+2003,BEST PICTURE,Clint Eastwood,Mystic River,FALSE
+2003,BEST PICTURE,Gary Ross,Seabiscuit,FALSE
+2003,DIRECTING,Fernando Meirelles,City of God,FALSE
+2003,DIRECTING,Peter Jackson,The Lord of the Rings: The Return of the King,TRUE
+2003,DIRECTING,Sofia Coppola,Lost in Translation,FALSE
+2003,DIRECTING,Peter Weir,Master and Commander: The Far Side of the World,FALSE
+2003,DIRECTING,Clint Eastwood,Mystic River,FALSE
+2004,ACTOR IN A LEADING ROLE,Don Cheadle,Hotel Rwanda,FALSE
+2004,ACTOR IN A LEADING ROLE,Johnny Depp,Finding Neverland,FALSE
+2004,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Aviator,FALSE
+2004,ACTOR IN A LEADING ROLE,Clint Eastwood,Million Dollar Baby,FALSE
+2004,ACTOR IN A LEADING ROLE,Jamie Foxx,Ray,TRUE
+2004,ACTOR IN A SUPPORTING ROLE,Alan Alda,The Aviator,FALSE
+2004,ACTOR IN A SUPPORTING ROLE,Thomas Haden Church,Sideways,FALSE
+2004,ACTOR IN A SUPPORTING ROLE,Jamie Foxx,Collateral,FALSE
+2004,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Million Dollar Baby,TRUE
+2004,ACTOR IN A SUPPORTING ROLE,Clive Owen,Closer,FALSE
+2004,ACTRESS IN A LEADING ROLE,Annette Bening,Being Julia,FALSE
+2004,ACTRESS IN A LEADING ROLE,Catalina Sandino Moreno,Maria Full of Grace,FALSE
+2004,ACTRESS IN A LEADING ROLE,Imelda Staunton,Vera Drake,FALSE
+2004,ACTRESS IN A LEADING ROLE,Hilary Swank,Million Dollar Baby,TRUE
+2004,ACTRESS IN A LEADING ROLE,Kate Winslet,Eternal Sunshine of the Spotless Mind,FALSE
+2004,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,The Aviator,TRUE
+2004,ACTRESS IN A SUPPORTING ROLE,Laura Linney,Kinsey,FALSE
+2004,ACTRESS IN A SUPPORTING ROLE,Virginia Madsen,Sideways,FALSE
+2004,ACTRESS IN A SUPPORTING ROLE,Sophie Okonedo,Hotel Rwanda,FALSE
+2004,ACTRESS IN A SUPPORTING ROLE,Natalie Portman,Closer,FALSE
+2004,BEST PICTURE,Martin Scorsese,The Aviator,FALSE
+2004,BEST PICTURE,Marc Forster,Finding Neverland,FALSE
+2004,BEST PICTURE,Clint Eastwood,Million Dollar Baby,TRUE
+2004,BEST PICTURE,Taylor Hackford,Ray,FALSE
+2004,BEST PICTURE,Alexander Payne,Sideways,FALSE
+2004,DIRECTING,Martin Scorsese,The Aviator,FALSE
+2004,DIRECTING,Clint Eastwood,Million Dollar Baby,TRUE
+2004,DIRECTING,Taylor Hackford,Ray,FALSE
+2004,DIRECTING,Alexander Payne,Sideways,FALSE
+2004,DIRECTING,Mike Leigh,Vera Drake,FALSE
+2005,ACTOR IN A LEADING ROLE,Philip Seymour Hoffman,Capote,TRUE
+2005,ACTOR IN A LEADING ROLE,Terrence Howard,Hustle & Flow,FALSE
+2005,ACTOR IN A LEADING ROLE,Heath Ledger,Brokeback Mountain,FALSE
+2005,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Walk the Line,FALSE
+2005,ACTOR IN A LEADING ROLE,David Strathairn,"Good Night, and Good Luck.",FALSE
+2005,ACTOR IN A SUPPORTING ROLE,George Clooney,Syriana,TRUE
+2005,ACTOR IN A SUPPORTING ROLE,Matt Dillon,Crash,FALSE
+2005,ACTOR IN A SUPPORTING ROLE,Paul Giamatti,Cinderella Man,FALSE
+2005,ACTOR IN A SUPPORTING ROLE,Jake Gyllenhaal,Brokeback Mountain,FALSE
+2005,ACTOR IN A SUPPORTING ROLE,William Hurt,A History of Violence,FALSE
+2005,ACTRESS IN A LEADING ROLE,Judi Dench,Mrs. Henderson Presents,FALSE
+2005,ACTRESS IN A LEADING ROLE,Felicity Huffman,Transamerica,FALSE
+2005,ACTRESS IN A LEADING ROLE,Keira Knightley,Pride & Prejudice,FALSE
+2005,ACTRESS IN A LEADING ROLE,Charlize Theron,North Country,FALSE
+2005,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Walk the Line,TRUE
+2005,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Junebug,FALSE
+2005,ACTRESS IN A SUPPORTING ROLE,Catherine Keener,Capote,FALSE
+2005,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,North Country,FALSE
+2005,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Constant Gardener,TRUE
+2005,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,Brokeback Mountain,FALSE
+2005,BEST PICTURE,Ang Lee,Brokeback Mountain,FALSE
+2005,BEST PICTURE,Bennett Miller,Capote,FALSE
+2005,BEST PICTURE,Paul Haggis,Crash,TRUE
+2005,BEST PICTURE,George Clooney,"Good Night, and Good Luck.",FALSE
+2005,BEST PICTURE,Steven Spielberg,Munich,FALSE
+2005,DIRECTING,Ang Lee,Brokeback Mountain,TRUE
+2005,DIRECTING,Bennett Miller,Capote,FALSE
+2005,DIRECTING,Paul Haggis,Crash,FALSE
+2005,DIRECTING,George Clooney,"Good Night, and Good Luck.",FALSE
+2005,DIRECTING,Steven Spielberg,Munich,FALSE
+2006,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Blood Diamond,FALSE
+2006,ACTOR IN A LEADING ROLE,Ryan Gosling,Half Nelson,FALSE
+2006,ACTOR IN A LEADING ROLE,Peter O'Toole,Venus,FALSE
+2006,ACTOR IN A LEADING ROLE,Will Smith,The Pursuit of Happyness,FALSE
+2006,ACTOR IN A LEADING ROLE,Forest Whitaker,The Last King of Scotland,TRUE
+2006,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Little Miss Sunshine,TRUE
+2006,ACTOR IN A SUPPORTING ROLE,Jackie Earle Haley,Little Children,FALSE
+2006,ACTOR IN A SUPPORTING ROLE,Djimon Hounsou,Blood Diamond,FALSE
+2006,ACTOR IN A SUPPORTING ROLE,Eddie Murphy,Dreamgirls,FALSE
+2006,ACTOR IN A SUPPORTING ROLE,Mark Wahlberg,The Departed,FALSE
+2006,ACTRESS IN A LEADING ROLE,Penélope Cruz,Volver,FALSE
+2006,ACTRESS IN A LEADING ROLE,Judi Dench,Notes on a Scandal,FALSE
+2006,ACTRESS IN A LEADING ROLE,Helen Mirren,The Queen,TRUE
+2006,ACTRESS IN A LEADING ROLE,Meryl Streep,The Devil Wears Prada,FALSE
+2006,ACTRESS IN A LEADING ROLE,Kate Winslet,Little Children,FALSE
+2006,ACTRESS IN A SUPPORTING ROLE,Adriana Barraza,Babel,FALSE
+2006,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,Notes on a Scandal,FALSE
+2006,ACTRESS IN A SUPPORTING ROLE,Abigail Breslin,Little Miss Sunshine,FALSE
+2006,ACTRESS IN A SUPPORTING ROLE,Jennifer Hudson,Dreamgirls,TRUE
+2006,ACTRESS IN A SUPPORTING ROLE,Rinko Kikuchi,Babel,FALSE
+2006,BEST PICTURE,Alejandro González Iñárritu,Babel,FALSE
+2006,BEST PICTURE,Martin Scorsese,The Departed,TRUE
+2006,BEST PICTURE,Clint Eastwood,Letters from Iwo Jima,FALSE
+2006,BEST PICTURE,"Jonathan Dayton, Valerie Faris",Little Miss Sunshine,FALSE
+2006,BEST PICTURE,Stephen Frears,The Queen,FALSE
+2006,DIRECTING,Alejandro González Iñárritu,Babel,FALSE
+2006,DIRECTING,Martin Scorsese,The Departed,TRUE
+2006,DIRECTING,Clint Eastwood,Letters from Iwo Jima,FALSE
+2006,DIRECTING,Stephen Frears,The Queen,FALSE
+2006,DIRECTING,Paul Greengrass,United 93,FALSE
+2007,ACTOR IN A LEADING ROLE,George Clooney,Michael Clayton,FALSE
+2007,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,There Will Be Blood,TRUE
+2007,ACTOR IN A LEADING ROLE,Johnny Depp,Sweeney Todd The Demon Barber of Fleet Street,FALSE
+2007,ACTOR IN A LEADING ROLE,Tommy Lee Jones,In the Valley of Elah,FALSE
+2007,ACTOR IN A LEADING ROLE,Viggo Mortensen,Eastern Promises,FALSE
+2007,ACTOR IN A SUPPORTING ROLE,Casey Affleck,The Assassination of Jesse James by the Coward Robert Ford,FALSE
+2007,ACTOR IN A SUPPORTING ROLE,Javier Bardem,No Country for Old Men,TRUE
+2007,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,Charlie Wilson's War,FALSE
+2007,ACTOR IN A SUPPORTING ROLE,Hal Holbrook,Into the Wild,FALSE
+2007,ACTOR IN A SUPPORTING ROLE,Tom Wilkinson,Michael Clayton,FALSE
+2007,ACTRESS IN A LEADING ROLE,Cate Blanchett,Elizabeth: The Golden Age,FALSE
+2007,ACTRESS IN A LEADING ROLE,Julie Christie,Away from Her,FALSE
+2007,ACTRESS IN A LEADING ROLE,Marion Cotillard,La Vie en Rose,TRUE
+2007,ACTRESS IN A LEADING ROLE,Laura Linney,The Savages,FALSE
+2007,ACTRESS IN A LEADING ROLE,Ellen Page,Juno,FALSE
+2007,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,I'm Not There,FALSE
+2007,ACTRESS IN A SUPPORTING ROLE,Ruby Dee,American Gangster,FALSE
+2007,ACTRESS IN A SUPPORTING ROLE,Saoirse Ronan,Atonement,FALSE
+2007,ACTRESS IN A SUPPORTING ROLE,Amy Ryan,Gone Baby Gone,FALSE
+2007,ACTRESS IN A SUPPORTING ROLE,Tilda Swinton,Michael Clayton,TRUE
+2007,BEST PICTURE,Joe Wright,Atonement,FALSE
+2007,BEST PICTURE,Jason Reitman,Juno,FALSE
+2007,BEST PICTURE,Tony Gilroy,Michael Clayton,FALSE
+2007,BEST PICTURE,Joel Coen and Ethan Coen,No Country for Old Men,TRUE
+2007,BEST PICTURE,Paul Thomas Anderson,There Will Be Blood,FALSE
+2007,DIRECTING,Julian Schnabel,The Diving Bell and the Butterfly,FALSE
+2007,DIRECTING,Jason Reitman,Juno,FALSE
+2007,DIRECTING,Tony Gilroy,Michael Clayton,FALSE
+2007,DIRECTING,Joel Coen and Ethan Coen,No Country for Old Men,TRUE
+2007,DIRECTING,Paul Thomas Anderson,There Will Be Blood,FALSE
+2008,ACTOR IN A LEADING ROLE,Richard Jenkins,The Visitor,FALSE
+2008,ACTOR IN A LEADING ROLE,Frank Langella,Frost/Nixon,FALSE
+2008,ACTOR IN A LEADING ROLE,Sean Penn,Milk,TRUE
+2008,ACTOR IN A LEADING ROLE,Brad Pitt,The Curious Case of Benjamin Button,FALSE
+2008,ACTOR IN A LEADING ROLE,Mickey Rourke,The Wrestler,FALSE
+2008,ACTOR IN A SUPPORTING ROLE,Josh Brolin,Milk,FALSE
+2008,ACTOR IN A SUPPORTING ROLE,Robert Downey Jr.,Tropic Thunder,FALSE
+2008,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,Doubt,FALSE
+2008,ACTOR IN A SUPPORTING ROLE,Heath Ledger,The Dark Knight,TRUE
+2008,ACTOR IN A SUPPORTING ROLE,Michael Shannon,Revolutionary Road,FALSE
+2008,ACTRESS IN A LEADING ROLE,Anne Hathaway,Rachel Getting Married,FALSE
+2008,ACTRESS IN A LEADING ROLE,Angelina Jolie,Changeling,FALSE
+2008,ACTRESS IN A LEADING ROLE,Melissa Leo,Frozen River,FALSE
+2008,ACTRESS IN A LEADING ROLE,Meryl Streep,Doubt,FALSE
+2008,ACTRESS IN A LEADING ROLE,Kate Winslet,The Reader,TRUE
+2008,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Doubt,FALSE
+2008,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Vicky Cristina Barcelona,TRUE
+2008,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Doubt,FALSE
+2008,ACTRESS IN A SUPPORTING ROLE,Taraji P. Henson,The Curious Case of Benjamin Button,FALSE
+2008,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,The Wrestler,FALSE
+2008,BEST PICTURE,David Fincher,The Curious Case of Benjamin Button,FALSE
+2008,BEST PICTURE,Ron Howard,Frost/Nixon,FALSE
+2008,BEST PICTURE,Gus Van Sant,Milk,FALSE
+2008,BEST PICTURE,Stephen Daldry,The Reader,FALSE
+2008,BEST PICTURE,Danny Boyle,Slumdog Millionaire,TRUE
+2008,DIRECTING,David Fincher,The Curious Case of Benjamin Button,FALSE
+2008,DIRECTING,Ron Howard,Frost/Nixon,FALSE
+2008,DIRECTING,Gus Van Sant,Milk,FALSE
+2008,DIRECTING,Stephen Daldry,The Reader,FALSE
+2008,DIRECTING,Danny Boyle,Slumdog Millionaire,TRUE
+2009,ACTOR IN A LEADING ROLE,Jeff Bridges,Crazy Heart,TRUE
+2009,ACTOR IN A LEADING ROLE,George Clooney,Up in the Air,FALSE
+2009,ACTOR IN A LEADING ROLE,Colin Firth,A Single Man,FALSE
+2009,ACTOR IN A LEADING ROLE,Morgan Freeman,Invictus,FALSE
+2009,ACTOR IN A LEADING ROLE,Jeremy Renner,The Hurt Locker,FALSE
+2009,ACTOR IN A SUPPORTING ROLE,Matt Damon,Invictus,FALSE
+2009,ACTOR IN A SUPPORTING ROLE,Woody Harrelson,The Messenger,FALSE
+2009,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,The Last Station,FALSE
+2009,ACTOR IN A SUPPORTING ROLE,Stanley Tucci,The Lovely Bones,FALSE
+2009,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Inglourious Basterds,TRUE
+2009,ACTRESS IN A LEADING ROLE,Sandra Bullock,The Blind Side,TRUE
+2009,ACTRESS IN A LEADING ROLE,Helen Mirren,The Last Station,FALSE
+2009,ACTRESS IN A LEADING ROLE,Carey Mulligan,An Education,FALSE
+2009,ACTRESS IN A LEADING ROLE,Gabourey Sidibe,Precious: Based on the Novel 'Push' by Sapphire,FALSE
+2009,ACTRESS IN A LEADING ROLE,Meryl Streep,Julie & Julia,FALSE
+2009,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Nine,FALSE
+2009,ACTRESS IN A SUPPORTING ROLE,Vera Farmiga,Up in the Air,FALSE
+2009,ACTRESS IN A SUPPORTING ROLE,Maggie Gyllenhaal,Crazy Heart,FALSE
+2009,ACTRESS IN A SUPPORTING ROLE,Anna Kendrick,Up in the Air,FALSE
+2009,ACTRESS IN A SUPPORTING ROLE,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,TRUE
+2009,BEST PICTURE,James Cameron,Avatar,FALSE
+2009,BEST PICTURE,John Lee Hancock,The Blind Side,FALSE
+2009,BEST PICTURE,Neill Blomkamp,District 9,FALSE
+2009,BEST PICTURE,Lone Scherfig,An Education,FALSE
+2009,BEST PICTURE,Kathryn Bigelow,The Hurt Locker,TRUE
+2009,BEST PICTURE,Quentin Tarantino,Inglourious Basterds,FALSE
+2009,BEST PICTURE,Lee Daniels,Precious: Based on the Novel 'Push' by Sapphire,FALSE
+2009,BEST PICTURE,Joel Coen and Ethan Coen,A Serious Man,FALSE
+2009,BEST PICTURE,Pete Docter,Up,FALSE
+2009,BEST PICTURE,Jason Reitman,Up in the Air,FALSE
+2009,DIRECTING,James Cameron,Avatar,FALSE
+2009,DIRECTING,Kathryn Bigelow,The Hurt Locker,TRUE
+2009,DIRECTING,Quentin Tarantino,Inglourious Basterds,FALSE
+2009,DIRECTING,Lee Daniels,Precious: Based on the Novel 'Push' by Sapphire,FALSE
+2009,DIRECTING,Jason Reitman,Up in the Air,FALSE
+2010,ACTOR IN A LEADING ROLE,Javier Bardem,Biutiful,FALSE
+2010,ACTOR IN A LEADING ROLE,Jeff Bridges,True Grit,FALSE
+2010,ACTOR IN A LEADING ROLE,Jesse Eisenberg,The Social Network,FALSE
+2010,ACTOR IN A LEADING ROLE,Colin Firth,The King's Speech,TRUE
+2010,ACTOR IN A LEADING ROLE,James Franco,127 Hours,FALSE
+2010,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Fighter,TRUE
+2010,ACTOR IN A SUPPORTING ROLE,John Hawkes,Winter's Bone,FALSE
+2010,ACTOR IN A SUPPORTING ROLE,Jeremy Renner,The Town,FALSE
+2010,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,The Kids Are All Right,FALSE
+2010,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,The King's Speech,FALSE
+2010,ACTRESS IN A LEADING ROLE,Annette Bening,The Kids Are All Right,FALSE
+2010,ACTRESS IN A LEADING ROLE,Nicole Kidman,Rabbit Hole,FALSE
+2010,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Winter's Bone,FALSE
+2010,ACTRESS IN A LEADING ROLE,Natalie Portman,Black Swan,TRUE
+2010,ACTRESS IN A LEADING ROLE,Michelle Williams,Blue Valentine,FALSE
+2010,ACTRESS IN A SUPPORTING ROLE,Amy Adams,The Fighter,FALSE
+2010,ACTRESS IN A SUPPORTING ROLE,Helena Bonham Carter,The King's Speech,FALSE
+2010,ACTRESS IN A SUPPORTING ROLE,Melissa Leo,The Fighter,TRUE
+2010,ACTRESS IN A SUPPORTING ROLE,Hailee Steinfeld,True Grit,FALSE
+2010,ACTRESS IN A SUPPORTING ROLE,Jacki Weaver,Animal Kingdom,FALSE
+2010,BEST PICTURE,Darren Aronofsky,Black Swan,FALSE
+2010,BEST PICTURE,David O. Russell,The Fighter,FALSE
+2010,BEST PICTURE,Christopher Nolan,Inception,FALSE
+2010,BEST PICTURE,Lisa Cholodenko,The Kids Are All Right,FALSE
+2010,BEST PICTURE,Tom Hooper,The King's Speech,TRUE
+2010,BEST PICTURE,Danny Boyle,127 Hours,FALSE
+2010,BEST PICTURE,David Fincher,The Social Network,FALSE
+2010,BEST PICTURE,Lee Unkrich,Toy Story 3,FALSE
+2010,BEST PICTURE,Joel Coen and Ethan Coen,True Grit,FALSE
+2010,BEST PICTURE,Debra Granik,Winter's Bone,FALSE
+2010,DIRECTING,Darren Aronofsky,Black Swan,FALSE
+2010,DIRECTING,David O. Russell,The Fighter,FALSE
+2010,DIRECTING,Tom Hooper,The King's Speech,TRUE
+2010,DIRECTING,David Fincher,The Social Network,FALSE
+2010,DIRECTING,Joel Coen and Ethan Coen,True Grit,FALSE
+2011,ACTOR IN A LEADING ROLE,Demián Bichir,A Better Life,FALSE
+2011,ACTOR IN A LEADING ROLE,George Clooney,The Descendants,FALSE
+2011,ACTOR IN A LEADING ROLE,Jean Dujardin,The Artist,TRUE
+2011,ACTOR IN A LEADING ROLE,Gary Oldman,Tinker Tailor Soldier Spy,FALSE
+2011,ACTOR IN A LEADING ROLE,Brad Pitt,Moneyball,FALSE
+2011,ACTOR IN A SUPPORTING ROLE,Kenneth Branagh,My Week with Marilyn,FALSE
+2011,ACTOR IN A SUPPORTING ROLE,Jonah Hill,Moneyball,FALSE
+2011,ACTOR IN A SUPPORTING ROLE,Nick Nolte,Warrior,FALSE
+2011,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,Beginners,TRUE
+2011,ACTOR IN A SUPPORTING ROLE,Max von Sydow,Extremely Loud & Incredibly Close,FALSE
+2011,ACTRESS IN A LEADING ROLE,Glenn Close,Albert Nobbs,FALSE
+2011,ACTRESS IN A LEADING ROLE,Viola Davis,The Help,FALSE
+2011,ACTRESS IN A LEADING ROLE,Rooney Mara,The Girl with the Dragon Tattoo,FALSE
+2011,ACTRESS IN A LEADING ROLE,Meryl Streep,The Iron Lady,TRUE
+2011,ACTRESS IN A LEADING ROLE,Michelle Williams,My Week with Marilyn,FALSE
+2011,ACTRESS IN A SUPPORTING ROLE,Bérénice Bejo,The Artist,FALSE
+2011,ACTRESS IN A SUPPORTING ROLE,Jessica Chastain,The Help,FALSE
+2011,ACTRESS IN A SUPPORTING ROLE,Melissa McCarthy,Bridesmaids,FALSE
+2011,ACTRESS IN A SUPPORTING ROLE,Janet McTeer,Albert Nobbs,FALSE
+2011,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Help,TRUE
+2011,BEST PICTURE,Michel Hazanavicius,The Artist,TRUE
+2011,BEST PICTURE,Alexander Payne,The Descendants,FALSE
+2011,BEST PICTURE,Stephen Daldry,Extremely Loud & Incredibly Close,FALSE
+2011,BEST PICTURE,Tate Taylor,The Help,FALSE
+2011,BEST PICTURE,Martin Scorsese,Hugo,FALSE
+2011,BEST PICTURE,Woody Allen,Midnight in Paris,FALSE
+2011,BEST PICTURE,Bennett Miller,Moneyball,FALSE
+2011,BEST PICTURE,Terrence Malick,The Tree of Life,FALSE
+2011,BEST PICTURE,Steven Spielberg,War Horse,FALSE
+2011,DIRECTING,Michel Hazanavicius,The Artist,TRUE
+2011,DIRECTING,Alexander Payne,The Descendants,FALSE
+2011,DIRECTING,Martin Scorsese,Hugo,FALSE
+2011,DIRECTING,Woody Allen,Midnight in Paris,FALSE
+2011,DIRECTING,Terrence Malick,The Tree of Life,FALSE
+2012,ACTOR IN A LEADING ROLE,Bradley Cooper,Silver Linings Playbook,FALSE
+2012,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Lincoln,TRUE
+2012,ACTOR IN A LEADING ROLE,Hugh Jackman,Les Misérables,FALSE
+2012,ACTOR IN A LEADING ROLE,Joaquin Phoenix,The Master,FALSE
+2012,ACTOR IN A LEADING ROLE,Denzel Washington,Flight,FALSE
+2012,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Argo,FALSE
+2012,ACTOR IN A SUPPORTING ROLE,Robert De Niro,Silver Linings Playbook,FALSE
+2012,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,The Master,FALSE
+2012,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,Lincoln,FALSE
+2012,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Django Unchained,TRUE
+2012,ACTRESS IN A LEADING ROLE,Jessica Chastain,Zero Dark Thirty,FALSE
+2012,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Silver Linings Playbook,TRUE
+2012,ACTRESS IN A LEADING ROLE,Emmanuelle Riva,Amour,FALSE
+2012,ACTRESS IN A LEADING ROLE,Quvenzhané Wallis,Beasts of the Southern Wild,FALSE
+2012,ACTRESS IN A LEADING ROLE,Naomi Watts,The Impossible,FALSE
+2012,ACTRESS IN A SUPPORTING ROLE,Amy Adams,The Master,FALSE
+2012,ACTRESS IN A SUPPORTING ROLE,Sally Field,Lincoln,FALSE
+2012,ACTRESS IN A SUPPORTING ROLE,Anne Hathaway,Les Misérables,TRUE
+2012,ACTRESS IN A SUPPORTING ROLE,Helen Hunt,The Sessions,FALSE
+2012,ACTRESS IN A SUPPORTING ROLE,Jacki Weaver,Silver Linings Playbook,FALSE
+2012,BEST PICTURE,Michael Haneke,Amour,FALSE
+2012,BEST PICTURE,Ben Affleck,Argo,TRUE
+2012,BEST PICTURE,Benh Zeitlin,Beasts of the Southern Wild,FALSE
+2012,BEST PICTURE,Quentin Tarantino,Django Unchained,FALSE
+2012,BEST PICTURE,Tom Hooper,Les Misérables,FALSE
+2012,BEST PICTURE,Ang Lee,Life of Pi,FALSE
+2012,BEST PICTURE,Steven Spielberg,Lincoln,FALSE
+2012,BEST PICTURE,David O. Russell,Silver Linings Playbook,FALSE
+2012,BEST PICTURE,Kathryn Bigelow,Zero Dark Thirty,FALSE
+2012,DIRECTING,Michael Haneke,Amour,FALSE
+2012,DIRECTING,Benh Zeitlin,Beasts of the Southern Wild,FALSE
+2012,DIRECTING,Ang Lee,Life of Pi,TRUE
+2012,DIRECTING,Steven Spielberg,Lincoln,FALSE
+2012,DIRECTING,David O. Russell,Silver Linings Playbook,FALSE
+2013,ACTOR IN A LEADING ROLE,Christian Bale,American Hustle,FALSE
+2013,ACTOR IN A LEADING ROLE,Bruce Dern,Nebraska,FALSE
+2013,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Wolf of Wall Street,FALSE
+2013,ACTOR IN A LEADING ROLE,Chiwetel Ejiofor,12 Years a Slave,FALSE
+2013,ACTOR IN A LEADING ROLE,Matthew McConaughey,Dallas Buyers Club,TRUE
+2013,ACTOR IN A SUPPORTING ROLE,Barkhad Abdi,Captain Phillips,FALSE
+2013,ACTOR IN A SUPPORTING ROLE,Bradley Cooper,American Hustle,FALSE
+2013,ACTOR IN A SUPPORTING ROLE,Michael Fassbender,12 Years a Slave,FALSE
+2013,ACTOR IN A SUPPORTING ROLE,Jonah Hill,The Wolf of Wall Street,FALSE
+2013,ACTOR IN A SUPPORTING ROLE,Jared Leto,Dallas Buyers Club,TRUE
+2013,ACTRESS IN A LEADING ROLE,Amy Adams,American Hustle,FALSE
+2013,ACTRESS IN A LEADING ROLE,Cate Blanchett,Blue Jasmine,TRUE
+2013,ACTRESS IN A LEADING ROLE,Sandra Bullock,Gravity,FALSE
+2013,ACTRESS IN A LEADING ROLE,Judi Dench,Philomena,FALSE
+2013,ACTRESS IN A LEADING ROLE,Meryl Streep,August: Osage County,FALSE
+2013,ACTRESS IN A SUPPORTING ROLE,Sally Hawkins,Blue Jasmine,FALSE
+2013,ACTRESS IN A SUPPORTING ROLE,Jennifer Lawrence,American Hustle,FALSE
+2013,ACTRESS IN A SUPPORTING ROLE,Lupita Nyong'o,12 Years a Slave,TRUE
+2013,ACTRESS IN A SUPPORTING ROLE,Julia Roberts,August: Osage County,FALSE
+2013,ACTRESS IN A SUPPORTING ROLE,June Squibb,Nebraska,FALSE
+2013,BEST PICTURE,David O. Russell,American Hustle,FALSE
+2013,BEST PICTURE,Paul Greengrass,Captain Phillips,FALSE
+2013,BEST PICTURE,Jean-Marc Vallée,Dallas Buyers Club,FALSE
+2013,BEST PICTURE,Alfonso Cuarón,Gravity,FALSE
+2013,BEST PICTURE,Spike Jonze,Her,FALSE
+2013,BEST PICTURE,Alexander Payne,Nebraska,FALSE
+2013,BEST PICTURE,Stephen Frears,Philomena,FALSE
+2013,BEST PICTURE,Steve McQueen,12 Years a Slave,TRUE
+2013,BEST PICTURE,Martin Scorsese,The Wolf of Wall Street,FALSE
+2013,DIRECTING,David O. Russell,American Hustle,FALSE
+2013,DIRECTING,Alfonso Cuarón,Gravity,TRUE
+2013,DIRECTING,Alexander Payne,Nebraska,FALSE
+2013,DIRECTING,Steve McQueen,12 Years a Slave,FALSE
+2013,DIRECTING,Martin Scorsese,The Wolf of Wall Street,FALSE
+2014,ACTOR IN A LEADING ROLE,Steve Carell,Foxcatcher,FALSE
+2014,ACTOR IN A LEADING ROLE,Bradley Cooper,American Sniper,FALSE
+2014,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,The Imitation Game,FALSE
+2014,ACTOR IN A LEADING ROLE,Michael Keaton,Birdman or (The Unexpected Virtue of Ignorance),FALSE
+2014,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Theory of Everything,TRUE
+2014,ACTOR IN A SUPPORTING ROLE,Robert Duvall,The Judge,FALSE
+2014,ACTOR IN A SUPPORTING ROLE,Ethan Hawke,Boyhood,FALSE
+2014,ACTOR IN A SUPPORTING ROLE,Edward Norton,Birdman or (The Unexpected Virtue of Ignorance),FALSE
+2014,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Foxcatcher,FALSE
+2014,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Whiplash,TRUE
+2014,ACTRESS IN A LEADING ROLE,Marion Cotillard,"Two Days, One Night",FALSE
+2014,ACTRESS IN A LEADING ROLE,Felicity Jones,The Theory of Everything,FALSE
+2014,ACTRESS IN A LEADING ROLE,Julianne Moore,Still Alice,TRUE
+2014,ACTRESS IN A LEADING ROLE,Rosamund Pike,Gone Girl,FALSE
+2014,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Wild,FALSE
+2014,ACTRESS IN A SUPPORTING ROLE,Patricia Arquette,Boyhood,TRUE
+2014,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Wild,FALSE
+2014,ACTRESS IN A SUPPORTING ROLE,Keira Knightley,The Imitation Game,FALSE
+2014,ACTRESS IN A SUPPORTING ROLE,Emma Stone,Birdman or (The Unexpected Virtue of Ignorance),FALSE
+2014,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Into the Woods,FALSE
+2014,BEST PICTURE,Clint Eastwood,American Sniper,FALSE
+2014,BEST PICTURE,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance),TRUE
+2014,BEST PICTURE,Richard Linklater,Boyhood,FALSE
+2014,BEST PICTURE,Wes Anderson,The Grand Budapest Hotel,FALSE
+2014,BEST PICTURE,Morten Tyldum,The Imitation Game,FALSE
+2014,BEST PICTURE,Ava DuVernay,Selma,FALSE
+2014,BEST PICTURE,James Marsh,The Theory of Everything,FALSE
+2014,BEST PICTURE,Damien Chazelle,Whiplash,FALSE
+2014,DIRECTING,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance),TRUE
+2014,DIRECTING,Richard Linklater,Boyhood,FALSE
+2014,DIRECTING,Bennett Miller,Foxcatcher,FALSE
+2014,DIRECTING,Wes Anderson,The Grand Budapest Hotel,FALSE
+2014,DIRECTING,Morten Tyldum,The Imitation Game,FALSE
+2015,ACTOR IN A LEADING ROLE,Bryan Cranston,Trumbo,FALSE
+2015,ACTOR IN A LEADING ROLE,Matt Damon,The Martian,FALSE
+2015,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Revenant,TRUE
+2015,ACTOR IN A LEADING ROLE,Michael Fassbender,Steve Jobs,FALSE
+2015,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Danish Girl,FALSE
+2015,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Big Short,FALSE
+2015,ACTOR IN A SUPPORTING ROLE,Tom Hardy,The Revenant,FALSE
+2015,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Spotlight,FALSE
+2015,ACTOR IN A SUPPORTING ROLE,Mark Rylance,Bridge of Spies,TRUE
+2015,ACTOR IN A SUPPORTING ROLE,Sylvester Stallone,Creed,FALSE
+2015,ACTRESS IN A LEADING ROLE,Cate Blanchett,Carol,FALSE
+2015,ACTRESS IN A LEADING ROLE,Brie Larson,Room,TRUE
+2015,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Joy,FALSE
+2015,ACTRESS IN A LEADING ROLE,Charlotte Rampling,45 Years,FALSE
+2015,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Brooklyn,FALSE
+2015,ACTRESS IN A SUPPORTING ROLE,Jennifer Jason Leigh,The Hateful Eight,FALSE
+2015,ACTRESS IN A SUPPORTING ROLE,Rooney Mara,Carol,FALSE
+2015,ACTRESS IN A SUPPORTING ROLE,Rachel McAdams,Spotlight,FALSE
+2015,ACTRESS IN A SUPPORTING ROLE,Alicia Vikander,The Danish Girl,TRUE
+2015,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Steve Jobs,FALSE
+2015,BEST PICTURE,Adam McKay,The Big Short,FALSE
+2015,BEST PICTURE,Steven Spielberg,Bridge of Spies,FALSE
+2015,BEST PICTURE,John Crowley,Brooklyn,FALSE
+2015,BEST PICTURE,George Miller,Mad Max: Fury Road,FALSE
+2015,BEST PICTURE,Ridley Scott,The Martian,FALSE
+2015,BEST PICTURE,Alejandro G. Iñárritu,The Revenant,FALSE
+2015,BEST PICTURE,Lenny Abrahamson,Room,FALSE
+2015,BEST PICTURE,Tom McCarthy,Spotlight,TRUE
+2015,DIRECTING,Adam McKay,The Big Short,FALSE
+2015,DIRECTING,George Miller,Mad Max: Fury Road,FALSE
+2015,DIRECTING,Alejandro G. Iñárritu,The Revenant,TRUE
+2015,DIRECTING,Lenny Abrahamson,Room,FALSE
+2015,DIRECTING,Tom McCarthy,Spotlight,FALSE
+2016,ACTOR IN A LEADING ROLE,Casey Affleck,Manchester by the Sea,TRUE
+2016,ACTOR IN A LEADING ROLE,Andrew Garfield,Hacksaw Ridge,FALSE
+2016,ACTOR IN A LEADING ROLE,Ryan Gosling,La La Land,FALSE
+2016,ACTOR IN A LEADING ROLE,Viggo Mortensen,Captain Fantastic,FALSE
+2016,ACTOR IN A LEADING ROLE,Denzel Washington,Fences,FALSE
+2016,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Moonlight,TRUE
+2016,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,Hell or High Water,FALSE
+2016,ACTOR IN A SUPPORTING ROLE,Lucas Hedges,Manchester by the Sea,FALSE
+2016,ACTOR IN A SUPPORTING ROLE,Dev Patel,Lion,FALSE
+2016,ACTOR IN A SUPPORTING ROLE,Michael Shannon,Nocturnal Animals,FALSE
+2016,ACTRESS IN A LEADING ROLE,Isabelle Huppert,Elle,FALSE
+2016,ACTRESS IN A LEADING ROLE,Ruth Negga,Loving,FALSE
+2016,ACTRESS IN A LEADING ROLE,Natalie Portman,Jackie,FALSE
+2016,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,TRUE
+2016,ACTRESS IN A LEADING ROLE,Meryl Streep,Florence Foster Jenkins,FALSE
+2016,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Fences,TRUE
+2016,ACTRESS IN A SUPPORTING ROLE,Naomie Harris,Moonlight,FALSE
+2016,ACTRESS IN A SUPPORTING ROLE,Nicole Kidman,Lion,FALSE
+2016,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,Hidden Figures,FALSE
+2016,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,Manchester by the Sea,FALSE
+2016,BEST PICTURE,Denis Villeneuve,Arrival,FALSE
+2016,BEST PICTURE,Denzel Washington,Fences,FALSE
+2016,BEST PICTURE,Mel Gibson,Hacksaw Ridge,FALSE
+2016,BEST PICTURE,David Mackenzie,Hell or High Water,FALSE
+2016,BEST PICTURE,Theodore Melfi,Hidden Figures,FALSE
+2016,BEST PICTURE,Damien Chazelle,La La Land,FALSE
+2016,BEST PICTURE,Garth Davis,Lion,FALSE
+2016,BEST PICTURE,Kenneth Lonergan,Manchester by the Sea,FALSE
+2016,BEST PICTURE,Barry Jenkins,Moonlight,TRUE
+2016,DIRECTING,Denis Villeneuve,Arrival,FALSE
+2016,DIRECTING,Mel Gibson,Hacksaw Ridge,FALSE
+2016,DIRECTING,Damien Chazelle,La La Land,TRUE
+2016,DIRECTING,Kenneth Lonergan,Manchester by the Sea,FALSE
+2016,DIRECTING,Barry Jenkins,Moonlight,FALSE
+2017,ACTOR IN A LEADING ROLE,Timothée Chalamet,Call Me by Your Name,FALSE
+2017,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Phantom Thread,FALSE
+2017,ACTOR IN A LEADING ROLE,Daniel Kaluuya,Get Out,FALSE
+2017,ACTOR IN A LEADING ROLE,Gary Oldman,Darkest Hour,TRUE
+2017,ACTOR IN A LEADING ROLE,Denzel Washington,"Roman J. Israel, Esq.",FALSE
+2017,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,The Florida Project,FALSE
+2017,ACTOR IN A SUPPORTING ROLE,Woody Harrelson,"Three Billboards outside Ebbing, Missouri",FALSE
+2017,ACTOR IN A SUPPORTING ROLE,Richard Jenkins,The Shape of Water,FALSE
+2017,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,All the Money in the World,FALSE
+2017,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",TRUE
+2017,ACTRESS IN A LEADING ROLE,Sally Hawkins,The Shape of Water,FALSE
+2017,ACTRESS IN A LEADING ROLE,Frances McDormand,"Three Billboards outside Ebbing, Missouri",TRUE
+2017,ACTRESS IN A LEADING ROLE,Margot Robbie,"I, Tonya",FALSE
+2017,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Lady Bird,FALSE
+2017,ACTRESS IN A LEADING ROLE,Meryl Streep,The Post,FALSE
+2017,ACTRESS IN A SUPPORTING ROLE,Mary J. Blige,Mudbound,FALSE
+2017,ACTRESS IN A SUPPORTING ROLE,Allison Janney,"I, Tonya",TRUE
+2017,ACTRESS IN A SUPPORTING ROLE,Lesley Manville,Phantom Thread,FALSE
+2017,ACTRESS IN A SUPPORTING ROLE,Laurie Metcalf,Lady Bird,FALSE
+2017,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Shape of Water,FALSE
+2017,BEST PICTURE,Luca Guadagnino,Call Me by Your Name,FALSE
+2017,BEST PICTURE,Martin McDonagh,Darkest Hour,FALSE
+2017,BEST PICTURE,Christopher Nolan,Dunkirk,FALSE
+2017,BEST PICTURE,Jordan Peele,Get Out,FALSE
+2017,BEST PICTURE,Greta Gerwig,Lady Bird,FALSE
+2017,BEST PICTURE,Paul Thomas Anderson,Phantom Thread,FALSE
+2017,BEST PICTURE,Steven Spielberg,The Post,FALSE
+2017,BEST PICTURE,Guillermo del Toro,The Shape of Water,TRUE
+2017,BEST PICTURE,Martin McDonagh,"Three Billboards outside Ebbing, Missouri",FALSE
+2017,DIRECTING,Christopher Nolan,Dunkirk,FALSE
+2017,DIRECTING,Jordan Peele,Get Out,FALSE
+2017,DIRECTING,Greta Gerwig,Lady Bird,FALSE
+2017,DIRECTING,Paul Thomas Anderson,Phantom Thread,FALSE
+2017,DIRECTING,Guillermo del Toro,The Shape of Water,TRUE
+2018,ACTOR IN A LEADING ROLE,Christian Bale,Vice,FALSE
+2018,ACTOR IN A LEADING ROLE,Bradley Cooper,A Star Is Born,FALSE
+2018,ACTOR IN A LEADING ROLE,Willem Dafoe,At Eternity's Gate,FALSE
+2018,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,TRUE
+2018,ACTOR IN A LEADING ROLE,Viggo Mortensen,Green Book,FALSE
+2018,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,TRUE
+2018,ACTOR IN A SUPPORTING ROLE,Adam Driver,BlacKkKlansman,FALSE
+2018,ACTOR IN A SUPPORTING ROLE,Sam Elliott,A Star Is Born,FALSE
+2018,ACTOR IN A SUPPORTING ROLE,Richard E. Grant,Can You Ever Forgive Me?,FALSE
+2018,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,Vice,FALSE
+2018,ACTRESS IN A LEADING ROLE,Yalitza Aparicio,Roma,FALSE
+2018,ACTRESS IN A LEADING ROLE,Glenn Close,The Wife,FALSE
+2018,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,TRUE
+2018,ACTRESS IN A LEADING ROLE,Lady Gaga,A Star Is Born,FALSE
+2018,ACTRESS IN A LEADING ROLE,Melissa McCarthy,Can You Ever Forgive Me?,FALSE
+2018,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Vice,FALSE
+2018,ACTRESS IN A SUPPORTING ROLE,Marina de Tavira,Roma,FALSE
+2018,ACTRESS IN A SUPPORTING ROLE,Regina King,If Beale Street Could Talk,TRUE
+2018,ACTRESS IN A SUPPORTING ROLE,Emma Stone,The Favourite,FALSE
+2018,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Favourite,FALSE
+2018,BEST PICTURE,Ryan Coogler,Black Panther,FALSE
+2018,BEST PICTURE,Spike Lee,BlacKkKlansman,FALSE
+2018,BEST PICTURE,Dexter Fletcher,Bohemian Rhapsody,FALSE
+2018,BEST PICTURE,Yorgos Lanthimos,The Favourite,FALSE
+2018,BEST PICTURE,Peter Farrelly,Green Book,TRUE
+2018,BEST PICTURE,Alfonso Cuarón,Roma,FALSE
+2018,BEST PICTURE,Bradley Cooper,A Star Is Born,FALSE
+2018,BEST PICTURE,Adam McKay,Vice,FALSE
+2018,DIRECTING,Spike Lee,BlacKkKlansman,FALSE
+2018,DIRECTING,Pawel Pawlikowski,Cold War,FALSE
+2018,DIRECTING,Yorgos Lanthimos,The Favourite,FALSE
+2018,DIRECTING,Alfonso Cuarón,Roma,TRUE
+2018,DIRECTING,Adam McKay,Vice,FALSE
+2019,ACTOR IN A LEADING ROLE,Antonio Banderas,Pain and Glory,FALSE
+2019,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Once upon a Time...in Hollywood,FALSE
+2019,ACTOR IN A LEADING ROLE,Adam Driver,Marriage Story,FALSE
+2019,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,TRUE
+2019,ACTOR IN A LEADING ROLE,Jonathan Pryce,The Two Popes,FALSE
+2019,ACTOR IN A SUPPORTING ROLE,Tom Hanks,A Beautiful Day in the Neighborhood,FALSE
+2019,ACTOR IN A SUPPORTING ROLE,Anthony Hopkins,The Two Popes,FALSE
+2019,ACTOR IN A SUPPORTING ROLE,Al Pacino,The Irishman,FALSE
+2019,ACTOR IN A SUPPORTING ROLE,Joe Pesci,The Irishman,FALSE
+2019,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,TRUE
+2019,ACTRESS IN A LEADING ROLE,Cynthia Erivo,Harriet,FALSE
+2019,ACTRESS IN A LEADING ROLE,Scarlett Johansson,Marriage Story,FALSE
+2019,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Little Women,FALSE
+2019,ACTRESS IN A LEADING ROLE,Charlize Theron,Bombshell,FALSE
+2019,ACTRESS IN A LEADING ROLE,Renée Zellweger,Judy,TRUE
+2019,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,Richard Jewell,FALSE
+2019,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Marriage Story,TRUE
+2019,ACTRESS IN A SUPPORTING ROLE,Scarlett Johansson,Jojo Rabbit,FALSE
+2019,ACTRESS IN A SUPPORTING ROLE,Florence Pugh,Little Women,FALSE
+2019,ACTRESS IN A SUPPORTING ROLE,Margot Robbie,Bombshell,FALSE
+2019,BEST PICTURE,James Mangold,Ford v Ferrari,FALSE
+2019,BEST PICTURE,Martin Scorsese,The Irishman,FALSE
+2019,BEST PICTURE,Taika Waititi,Jojo Rabbit,FALSE
+2019,BEST PICTURE,Todd Phillips,Joker,FALSE
+2019,BEST PICTURE,Greta Gerwig,Little Women,FALSE
+2019,BEST PICTURE,Noah Baumbach,Marriage Story,FALSE
+2019,BEST PICTURE,Sam Mendes,1917,FALSE
+2019,BEST PICTURE,Quentin Tarantino,Once upon a Time...in Hollywood,FALSE
+2019,BEST PICTURE,Bong Joon Ho,Parasite,TRUE
+2019,DIRECTING,Martin Scorsese,The Irishman,FALSE
+2019,DIRECTING,Todd Phillips,Joker,FALSE
+2019,DIRECTING,Sam Mendes,1917,FALSE
+2019,DIRECTING,Quentin Tarantino,Once upon a Time...in Hollywood,FALSE
+2019,DIRECTING,Bong Joon Ho,Parasite,TRUE
+2020,ACTOR IN A LEADING ROLE,Riz Ahmed,Sound of Metal,FALSE
+2020,ACTOR IN A LEADING ROLE,Chadwick Boseman,Ma Rainey's Black Bottom,FALSE
+2020,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Father,TRUE
+2020,ACTOR IN A LEADING ROLE,Gary Oldman,Mank,FALSE
+2020,ACTOR IN A LEADING ROLE,Steven Yeun,Minari,FALSE
+2020,ACTOR IN A SUPPORTING ROLE,Sacha Baron Cohen,The Trial of the Chicago 7,FALSE
+2020,ACTOR IN A SUPPORTING ROLE,Daniel Kaluuya,Judas and the Black Messiah,TRUE
+2020,ACTOR IN A SUPPORTING ROLE,"Leslie Odom, Jr.",One Night in Miami...,FALSE
+2020,ACTOR IN A SUPPORTING ROLE,Paul Raci,Sound of Metal,FALSE
+2020,ACTOR IN A SUPPORTING ROLE,Lakeith Stanfield,Judas and the Black Messiah,FALSE
+2020,ACTRESS IN A LEADING ROLE,Viola Davis,Ma Rainey's Black Bottom,FALSE
+2020,ACTRESS IN A LEADING ROLE,Andra Day,The United States vs. Billie Holiday,FALSE
+2020,ACTRESS IN A LEADING ROLE,Vanessa Kirby,Pieces of a Woman,FALSE
+2020,ACTRESS IN A LEADING ROLE,Frances McDormand,Nomadland,TRUE
+2020,ACTRESS IN A LEADING ROLE,Carey Mulligan,Promising Young Woman,FALSE
+2020,ACTRESS IN A SUPPORTING ROLE,Maria Bakalova,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,FALSE
+2020,ACTRESS IN A SUPPORTING ROLE,Glenn Close,Hillbilly Elegy,FALSE
+2020,ACTRESS IN A SUPPORTING ROLE,Olivia Colman,The Father,FALSE
+2020,ACTRESS IN A SUPPORTING ROLE,Amanda Seyfried,Mank,FALSE
+2020,ACTRESS IN A SUPPORTING ROLE,Yuh-Jung Youn,Minari,TRUE
+2020,BEST PICTURE,Florian Zeller,The Father,FALSE
+2020,BEST PICTURE,Shaka King,Judas and the Black Messiah,FALSE
+2020,BEST PICTURE,David Fincher,Mank,FALSE
+2020,BEST PICTURE,Lee Isaac Chung,Minari,FALSE
+2020,BEST PICTURE,Chloé Zhao,Nomadland,TRUE
+2020,BEST PICTURE,Emerald Fennell,Promising Young Woman,FALSE
+2020,BEST PICTURE,Darius Marder,Sound of Metal,FALSE
+2020,BEST PICTURE,Florian Zeller,The Trial of the Chicago 7,FALSE
+2020,DIRECTING,Thomas Vinterberg,Another Round,FALSE
+2020,DIRECTING,David Fincher,Mank,FALSE
+2020,DIRECTING,Lee Isaac Chung,Minari,FALSE
+2020,DIRECTING,Chloé Zhao,Nomadland,TRUE
+2020,DIRECTING,Emerald Fennell,Promising Young Woman,FALSE
+2021,ACTOR IN A LEADING ROLE,Javier Bardem,Being the Ricardos,FALSE
+2021,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,The Power of the Dog,FALSE
+2021,ACTOR IN A LEADING ROLE,Andrew Garfield,"tick, tick...BOOM!",FALSE
+2021,ACTOR IN A LEADING ROLE,Will Smith,King Richard,TRUE
+2021,ACTOR IN A LEADING ROLE,Denzel Washington,The Tragedy of Macbeth,FALSE
+2021,ACTOR IN A SUPPORTING ROLE,Ciarán Hinds,Belfast,FALSE
+2021,ACTOR IN A SUPPORTING ROLE,Troy Kotsur,CODA,TRUE
+2021,ACTOR IN A SUPPORTING ROLE,Jesse Plemons,The Power of the Dog,FALSE
+2021,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Being the Ricardos,FALSE
+2021,ACTOR IN A SUPPORTING ROLE,Kodi Smit-McPhee,The Power of the Dog,FALSE
+2021,ACTRESS IN A LEADING ROLE,Jessica Chastain,The Eyes of Tammy Faye,TRUE
+2021,ACTRESS IN A LEADING ROLE,Olivia Colman,The Lost Daughter,FALSE
+2021,ACTRESS IN A LEADING ROLE,Penélope Cruz,Parallel Mothers,FALSE
+2021,ACTRESS IN A LEADING ROLE,Nicole Kidman,Being the Ricardos,FALSE
+2021,ACTRESS IN A LEADING ROLE,Kristen Stewart,Spencer,FALSE
+2021,ACTRESS IN A SUPPORTING ROLE,Jessie Buckley,The Lost Daughter,FALSE
+2021,ACTRESS IN A SUPPORTING ROLE,Ariana DeBose,West Side Story,TRUE
+2021,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Belfast,FALSE
+2021,ACTRESS IN A SUPPORTING ROLE,Kirsten Dunst,The Power of the Dog,FALSE
+2021,ACTRESS IN A SUPPORTING ROLE,Aunjanue Ellis,King Richard,FALSE
+2021,BEST PICTURE,Kenneth Branagh,Belfast,FALSE
+2021,BEST PICTURE,Sian Heder,CODA,TRUE
+2021,BEST PICTURE,Adam McKay,Don't Look Up,FALSE
+2021,BEST PICTURE,Ryusuke Hamaguchi,Drive My Car,FALSE
+2021,BEST PICTURE,Denis Villeneuve,Dune,FALSE
+2021,BEST PICTURE,Reinaldo Marcus Green,King Richard,FALSE
+2021,BEST PICTURE,Paul Thomas Anderson,Licorice Pizza,FALSE
+2021,BEST PICTURE,Guillermo del Toro,Nightmare Alley,FALSE
+2021,BEST PICTURE,Jane Campion,The Power of the Dog,FALSE
+2021,BEST PICTURE,Steven Spielberg,West Side Story,FALSE
+2021,DIRECTING,Kenneth Branagh,Belfast,FALSE
+2021,DIRECTING,Ryusuke Hamaguchi,Drive My Car,FALSE
+2021,DIRECTING,Paul Thomas Anderson,Licorice Pizza,FALSE
+2021,DIRECTING,Jane Campion,The Power of the Dog,TRUE
+2021,DIRECTING,Steven Spielberg,West Side Story,FALSE
+2022,ACTOR IN A LEADING ROLE,Austin Butler,Elvis,FALSE
+2022,ACTOR IN A LEADING ROLE,Colin Farrell,The Banshees of Inisherin,FALSE
+2022,ACTOR IN A LEADING ROLE,Brendan Fraser,The Whale,TRUE
+2022,ACTOR IN A LEADING ROLE,Paul Mescal,Aftersun,FALSE
+2022,ACTOR IN A LEADING ROLE,Bill Nighy,Living,FALSE
+2022,ACTOR IN A SUPPORTING ROLE,Brendan Gleeson,The Banshees of Inisherin,FALSE
+2022,ACTOR IN A SUPPORTING ROLE,Brian Tyree Henry,Causeway,FALSE
+2022,ACTOR IN A SUPPORTING ROLE,Judd Hirsch,The Fabelmans,FALSE
+2022,ACTOR IN A SUPPORTING ROLE,Barry Keoghan,The Banshees of Inisherin,FALSE
+2022,ACTOR IN A SUPPORTING ROLE,Ke Huy Quan,Everything Everywhere All at Once,TRUE
+2022,ACTRESS IN A LEADING ROLE,Cate Blanchett,Tár,FALSE
+2022,ACTRESS IN A LEADING ROLE,Ana de Armas,Blonde,FALSE
+2022,ACTRESS IN A LEADING ROLE,Andrea Riseborough,To Leslie,FALSE
+2022,ACTRESS IN A LEADING ROLE,Michelle Williams,The Fabelmans,FALSE
+2022,ACTRESS IN A LEADING ROLE,Michelle Yeoh,Everything Everywhere All at Once,TRUE
+2022,ACTRESS IN A SUPPORTING ROLE,Angela Bassett,Black Panther: Wakanda Forever,FALSE
+2022,ACTRESS IN A SUPPORTING ROLE,Hong Chau,The Whale,FALSE
+2022,ACTRESS IN A SUPPORTING ROLE,Kerry Condon,The Banshees of Inisherin,FALSE
+2022,ACTRESS IN A SUPPORTING ROLE,Jamie Lee Curtis,Everything Everywhere All at Once,TRUE
+2022,ACTRESS IN A SUPPORTING ROLE,Stephanie Hsu,Everything Everywhere All at Once,FALSE
+2022,BEST PICTURE,Edward Berger,All Quiet on the Western Front,FALSE
+2022,BEST PICTURE,James Cameron,Avatar: The Way of Water,FALSE
+2022,BEST PICTURE,Martin McDonagh,The Banshees of Inisherin,FALSE
+2022,BEST PICTURE,Baz Luhrmann,Elvis,FALSE
+2022,BEST PICTURE,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once,TRUE
+2022,BEST PICTURE,Steven Spielberg,The Fabelmans,FALSE
+2022,BEST PICTURE,Todd Field,Tár,FALSE
+2022,BEST PICTURE,Joseph Kosinski,Top Gun: Maverick,FALSE
+2022,BEST PICTURE,Ruben Östlund,Triangle of Sadness,FALSE
+2022,BEST PICTURE,Sarah Polley,Women Talking,FALSE
+2022,DIRECTING,Martin McDonagh,The Banshees of Inisherin,FALSE
+2022,DIRECTING,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once,TRUE
+2022,DIRECTING,Steven Spielberg,The Fabelmans,FALSE
+2022,DIRECTING,Todd Field,Tár,FALSE
+2022,DIRECTING,Ruben Östlund,Triangle of Sadness,FALSE
+2023,ACTOR IN A LEADING ROLE,Bradley Cooper,Maestro,10-03-2024
+2023,ACTOR IN A LEADING ROLE,Colman Domingo,Rustin,10-03-2024
+2023,ACTOR IN A LEADING ROLE,Paul Giamatti,The Holdovers,10-03-2024
+2023,ACTOR IN A LEADING ROLE,Cillian Murphy,Oppenheimer,10-03-2024
+2023,ACTOR IN A LEADING ROLE,Jeffrey Wright,American Fiction,10-03-2024
+2023,ACTOR IN A SUPPORTING ROLE,Sterling K. Brown,American Fiction,10-03-2024
+2023,ACTOR IN A SUPPORTING ROLE,Robert De Niro,Killers of the Flower Moon,10-03-2024
+2023,ACTOR IN A SUPPORTING ROLE,Robert Downey Jr.,Oppenheimer,10-03-2024
+2023,ACTOR IN A SUPPORTING ROLE,Ryan Gosling,Barbie,10-03-2024
+2023,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Poor Things,10-03-2024
+2023,ACTRESS IN A LEADING ROLE,Annette Bening,Nyad,10-03-2024
+2023,ACTRESS IN A LEADING ROLE,Lily Gladstone,Killers of the Flower Moon,10-03-2024
+2023,ACTRESS IN A LEADING ROLE,Sandra Hüller,Anatomy of a Fall,10-03-2024
+2023,ACTRESS IN A LEADING ROLE,Carey Mulligan,Maestro,10-03-2024
+2023,ACTRESS IN A LEADING ROLE,Emma Stone,Poor Things,10-03-2024
+2023,ACTRESS IN A SUPPORTING ROLE,Emily Blunt,Oppenheimer,10-03-2024
+2023,ACTRESS IN A SUPPORTING ROLE,Danielle Brooks,The Color Purple,10-03-2024
+2023,ACTRESS IN A SUPPORTING ROLE,America Ferrera,Barbie,10-03-2024
+2023,ACTRESS IN A SUPPORTING ROLE,Jodie Foster,Nyad,10-03-2024
+2023,ACTRESS IN A SUPPORTING ROLE,Da'Vine Joy Randolph,The Holdovers,10-03-2024
+2023,BEST PICTURE,Cord Jefferson,American Fiction,10-03-2024
+2023,BEST PICTURE,Justine Triet,Anatomy of a Fall,10-03-2024
+2023,BEST PICTURE,Greta Gerwig,Barbie,10-03-2024
+2023,BEST PICTURE,Alexander Payne,The Holdovers,10-03-2024
+2023,BEST PICTURE,Martin Scorsese,Killers of the Flower Moon,10-03-2024
+2023,BEST PICTURE,Bradley Cooper,Maestro,10-03-2024
+2023,BEST PICTURE,Christopher Nolan,Oppenheimer,10-03-2024
+2023,BEST PICTURE,Celine Song,Past Lives,10-03-2024
+2023,BEST PICTURE,Yorgos Lanthimos,Poor Things,10-03-2024
+2023,BEST PICTURE,Jonathan Glazer,The Zone of Interest,10-03-2024
+2023,DIRECTING,Justine Triet,Anatomy of a Fall,10-03-2024
+2023,DIRECTING,Martin Scorsese,Killers of the Flower Moon,10-03-2024
+2023,DIRECTING,Christopher Nolan,Oppenheimer,10-03-2024
+2023,DIRECTING,Yorgos Lanthimos,Poor Things,10-03-2024
+2023,DIRECTING,Jonathan Glazer,The Zone of Interest,10-03-2024
