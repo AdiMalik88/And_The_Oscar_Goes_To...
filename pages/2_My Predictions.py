@@ -68,7 +68,7 @@ def main():
 
 image = 'Our Predictions.JPG'
 
+st.image(image, caption='Two Important Critics', use_column_width=True)
+
 if __name__ == "__main__":
     main()
-    
-# st.image(image, caption='Two Important Critics', use_column_width=True)
