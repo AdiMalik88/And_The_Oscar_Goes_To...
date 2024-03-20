@@ -41,7 +41,7 @@ This page is designed purely for entertainment purposes, showcasing Streamlit's 
 
 You can engage in the quiz in two modes:
 
-### **Easy Mode:** 
+#### ***Easy Mode:***
 Match the emojis to the corresponding movie using pre-filled dropdowns.
 ### **Hard Mode:** 
 Challenge yourself by typing out the movie names in blank textboxes.
