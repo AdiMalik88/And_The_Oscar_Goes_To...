@@ -5,7 +5,7 @@ import streamlit as st
 # Functions
 @st.cache_data
 def grab_nominees(csv):
-    csv = "/Users/adimalik/Documents/Final Projects Awards/Streamlit/Oscars2024_Nominees.csv"
+    csv = "Oscars2024_Nominees.csv"
     df = pd.read_csv(csv,encoding='latin1')
     df['Count'] = 1
     df['Nominee Full'] = df.apply(lambda x: x['Nominee'] + " (" + x['Movie'] + ")", axis=1)
@@ -31,7 +31,7 @@ def grab_past_winners(url=urlBase):
 
 @st.cache_data
 
-def oscars_vs_bafta(csv_bafta='/Users/adimalik/Documents/Final Projects Awards/Streamlit/BAFTA2024 - Sheet1.csv', csv_oscars='/Users/adimalik/Documents/Final Projects Awards/Streamlit/OSCARS2024 - Sheet1.csv'):
+def oscars_vs_bafta(csv_bafta='BAFTA2024 - Sheet1.csv', csv_oscars='OSCARS2024 - Sheet1.csv'):
     baftas = pd.read_csv(csv_bafta)
     oscars = pd.read_csv(csv_oscars)
     nominations = baftas.merge(oscars, how='outer', on='Film', suffixes=("_BAFTA", "_OSCAR"))
@@ -59,9 +59,9 @@ with st.expander("See app info"):
 
 # Data
 year = '2024'
-csv = "/Users/adimalik/Documents/Final Projects Awards/Streamlit/Oscars2024_Nominees.csv"
-BAFTA2024 = "/Users/adimalik/Documents/Final Projects Awards/Streamlit/BAFTA2024 - Sheet1.csv"
-OSCARS2024 = "/Users/adimalik/Documents/Final Projects Awards/Streamlit/OSCARS2024 - Sheet1.csv"
+csv = "Oscars2024_Nominees.csv"
+BAFTA2024 = "BAFTA2024 - Sheet1.csv"
+OSCARS2024 = "OSCARS2024 - Sheet1.csv"
 
 
 # Import Data
