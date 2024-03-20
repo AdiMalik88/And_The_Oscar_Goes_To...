@@ -15,4 +15,5 @@ This page provides an overview of this year's nominees, categorized by movie and
 - An interactive Plotly bar chart allows users to filter for specific award categories in the legend and hover their cursor over the bars for detailed information.
 - A count summary table displays the total number of nominations by movie. Notably, "Oppenheimer" leads with an impressive 13 nominations, closely followed by "Poor Things" with 11, and "Killers of the Flower Moon" with 10.
 - A detailed table presents all nominees across categories along with additional descriptions. For instance, it includes details on Best Actor and Actress nominees, their respective movies, and the roles they portrayed.
+
 Each of these outputs offers further filtering options by selecting specific award categories in a dropdown multi-select box.
