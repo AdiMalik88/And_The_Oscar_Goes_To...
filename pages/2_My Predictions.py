@@ -65,10 +65,20 @@ if __name__ == "__main__":
 # Add an image to the app
 def main():
     st.title("Two Important Critics (Me (AAM) & My Wife (AFC)) Predictions")
+    
+    image = 'Our Predictions.JPG'
+    st.image(image, caption='Two Important Critics', use_column_width=True)
+
+if __name__ == "__main__":
+    main()
+
+
+"""def main():
+    st.title("Two Important Critics (Me (AAM) & My Wife (AFC)) Predictions")
 
 image = 'Our Predictions.JPG'
 
 st.image(image, caption='Two Important Critics', use_column_width=True)
 
 if __name__ == "__main__":
-    main()
+    main()"""
