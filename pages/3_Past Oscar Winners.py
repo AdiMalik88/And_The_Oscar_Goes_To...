@@ -33,8 +33,8 @@ def grab_past_winners():
     return get_data_from_url(url)
 
 def grab_other_awards():
-    df = pd.read_excel("/Users/adimalik/Documents/Final Projects Awards/Streamlit/oscars comparison to sag.xlsx", sheet_name=1, header=3)
-    df2 = pd.read_excel("/Users/adimalik/Documents/Final Projects Awards/Streamlit/oscars comparison to sag.xlsx", sheet_name=0, header=2, nrows=5)
+    df = pd.read_excel("oscars comparison to sag.xlsx", sheet_name=1, header=3)
+    df2 = pd.read_excel("oscars comparison to sag.xlsx", sheet_name=0, header=2, nrows=5)
     return df, df2
 
 # Format Map
