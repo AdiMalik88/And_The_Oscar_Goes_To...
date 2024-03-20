@@ -54,7 +54,7 @@ def main():
     st.title("Concise Predictions")
 
     # Read CSV file
-    df2 = pd.read_csv("/Users/adimalik/Documents/Final Projects Awards/Streamlit/Predicted_Winners.csv")
+    df2 = pd.read_csv("Predicted_Winners.csv")
     
     # Display the dataframe
     st.write(df2)
