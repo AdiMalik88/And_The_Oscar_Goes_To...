@@ -1,6 +1,6 @@
 # And_The_Oscar_Goes_To...
 
-# Application Overview:
+## **Application Overview:**
 
 This application is designed to highlight a variety of dashboard components offered by the Streamlit Python package, along with interactive charts available in Python. Navigating through the app is intuitive, with four main pages accessible via a dropdown menu in the sidebar:
 
