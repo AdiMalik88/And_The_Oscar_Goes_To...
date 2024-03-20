@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(layout="wide", page_title='Best Picture Emoji Quiz 2024')
 
 # Import Data
-nominees = pd.read_csv("/Users/adimalik/Documents/Final Projects Awards/Streamlit/oscar_goes_to.csv")
+nominees = pd.read_csv("oscar_goes_to.csv")
 best_movies = nominees[nominees['CATEGORY'] == 'BEST PICTURE']['FILM'].drop_duplicates().sort_values()
 
 # Define correct answers
