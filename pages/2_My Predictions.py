@@ -41,7 +41,7 @@ def main():
     st.title("Model's Predictions")
 
     # Read CSV file
-    df = pd.read_csv("/Users/adimalik/Documents/Final Projects Awards/Streamlit/df_oscar_goes_to_copy.csv")
+    df = pd.read_csv("df_oscar_goes_to_copy.csv")
     
     # Display the dataframe
     st.write(df)
@@ -63,5 +63,12 @@ if __name__ == "__main__":
     main()
 
 # Add an image to the app
+def main():
+st.title("Two Important Critics (Me & My Wife) Predictions")
+
 image = '/Users/adimalik/Documents/Final Projects Awards/Streamlit/Our Predictions.JPG'
-st.image(image, caption='Two Important Critics', use_column_width=True)
+
+if __name__ == "__main__":
+    main()
+    
+# st.image(image, caption='Two Important Critics', use_column_width=True)
