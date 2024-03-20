@@ -64,7 +64,7 @@ if __name__ == "__main__":
 
 # Add an image to the app
 def main():
-st.title("Two Important Critics (Me & My Wife) Predictions")
+    st.title("Two Important Critics (Me & My Wife) Predictions")
 
 image = '/Users/adimalik/Documents/Final Projects Awards/Streamlit/Our Predictions.JPG'
 
